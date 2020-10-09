@@ -1,0 +1,13 @@
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\bin\Debug\netcoreapp3.1\WebSockets.exe
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\bin\Debug\netcoreapp3.1\WebSockets.deps.json
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\bin\Debug\netcoreapp3.1\WebSockets.runtimeconfig.json
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\bin\Debug\netcoreapp3.1\WebSockets.runtimeconfig.dev.json
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\bin\Debug\netcoreapp3.1\WebSockets.dll
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\bin\Debug\netcoreapp3.1\WebSockets.pdb
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\obj\Debug\netcoreapp3.1\WebSockets.csprojAssemblyReference.cache
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\obj\Debug\netcoreapp3.1\WebSockets.AssemblyInfoInputs.cache
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\obj\Debug\netcoreapp3.1\WebSockets.AssemblyInfo.cs
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\obj\Debug\netcoreapp3.1\WebSockets.csproj.CoreCompileInputs.cache
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\obj\Debug\netcoreapp3.1\WebSockets.dll
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\obj\Debug\netcoreapp3.1\WebSockets.pdb
+E:\Faridun's Projects\Faridun's\Back-End\Console\WebSockets\obj\Debug\netcoreapp3.1\WebSockets.genruntimeconfig.cache
